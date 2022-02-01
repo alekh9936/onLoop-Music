@@ -91,7 +91,7 @@ div:hover{
 }
 
 #about{
-	background-color:#333;
+	background-color:midnightblue;
     color:whitesmoke;
     text-decoration-color: goldenrod;
     width: 1500px;
@@ -99,7 +99,23 @@ div:hover{
     display: inline;
 }
 
+#about ul{
+	padding-right:130px;
+    padding-left: 130px;
+	list-style: none;
+}
 
+#about li{
+	display: table-cell;
+}
+
+#about a{
+	color:#fff;
+	text-decoration: underline;
+	font-size:25px;
+	padding-right:30px;
+	
+}
 
 
 #main-footer{
