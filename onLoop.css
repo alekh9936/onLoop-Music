@@ -87,6 +87,7 @@ div:hover{
 	text-decoration: underline;
 	font-size:25px;
 	padding-right:30px;
+	
 }
 
 #about{
@@ -94,25 +95,11 @@ div:hover{
     color:goldenrod;
     text-decoration-color: goldenrod;
     width: 1500px;
-    height: 800px;
+    height: 1000px;
+    display: inline;
 }
 
-#about ul{
-	padding-right:130px;
-    padding-left: 130px;
-	list-style: none;
-}
 
-#about li{
-	display: table-cell;
-}
-
-#about a{
-	color:#fff;
-	text-decoration: underline;
-	font-size:25px;
-	padding-right:30px;
-}
 
 
 #main-footer{
