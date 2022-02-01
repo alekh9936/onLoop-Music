@@ -1,6 +1,6 @@
 body{
-	background:url("bg.jpg");
-	color:midnightblue;
+    background:url("bg.jpg");
+	color:black;
 	font-family:sans-serif;
 	font-size:16px;
 	line-height:1.6em;
@@ -36,7 +36,7 @@ div:hover{
     border: 10px solid white;
     border-radius: 40px;
     background: url("R.jpg") no-repeat;
-    color:black;
+    color:whitesmoke;
     text-decoration-color: black;
 }
 #music{
