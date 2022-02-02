@@ -19,8 +19,6 @@ body{
     background: coral;
     color: white;
     text-decoration-color: white;
-    width: 1500px;
-    height: 50px;
     transition: width 10s;
     -webkit-transition: width 30s;
     transition-timing-function: ease-in-out;
@@ -43,8 +41,7 @@ div:hover{
 	background-color:#333;
     color:goldenrod;
     text-decoration-color: goldenrod;
-    width: 1500px;
-    height: 450px;
+    
 }
 
 #music ul{
@@ -68,8 +65,7 @@ div:hover{
 	background-color:#333;
 	color:goldenrod;
     text-decoration-color: goldenrod;
-    width: 1500px;
-    height: 450px;
+    
 }
 
 #music1 ul{
@@ -94,8 +90,7 @@ div:hover{
     background-color:midnightblue;
     color:whitesmoke;
     text-decoration-color: goldenrod;
-    width: 1500px;
-    height: 1000px;
+    
 }
 
 #about ul{
@@ -119,7 +114,6 @@ div:hover{
 #main-footer{
 	background: silver;
 	color:#000;
-    width:1500px;
 	text-align:left;
     padding:2.5px;
     margin-top: 40px;
