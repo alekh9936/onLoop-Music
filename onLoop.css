@@ -17,11 +17,12 @@ body{
 
 #main-header{
     background: coral;
-    color: white;
-    text-decoration-color: white;
     transition: width 10s;
     -webkit-transition: width 30s;
     transition-timing-function: ease-in-out;
+    color: white;
+    text-decoration-color: white;
+    
     
 }
 div:hover{
