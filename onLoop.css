@@ -17,6 +17,7 @@ body{
 
 #main-header{
     background: coral;
+    width:1500px;
     transition: width 10s;
     -webkit-transition: width 30s;
     transition-timing-function: ease-in-out;
@@ -42,7 +43,7 @@ div:hover{
 	background-color:#333;
     color:goldenrod;
     text-decoration-color: goldenrod;
-    
+    width:1500px;
 }
 
 #music ul{
@@ -66,7 +67,7 @@ div:hover{
 	background-color:#333;
 	color:goldenrod;
     text-decoration-color: goldenrod;
-    
+    width:1500px;
 }
 
 #music1 ul{
@@ -91,7 +92,7 @@ div:hover{
     background-color:midnightblue;
     color:whitesmoke;
     text-decoration-color: goldenrod;
-    
+    width:1500px;
 }
 
 #about ul{
